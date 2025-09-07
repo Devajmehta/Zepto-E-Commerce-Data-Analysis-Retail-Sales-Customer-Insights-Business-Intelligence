@@ -27,8 +27,7 @@ This project mimics real-world e-commerce analytics, focusing on:
 ---
 
 ##  Key Business Questions Solved  
-
-### Q1️ Find the top 10 best value products based on the discount percentage  
+    Q1️ Find the top 10 best value products based on the discount percentage  
     Q2️ Products with high MRP but out of Stock
     Q3️ Calculate estimated revenue for each category
     Q4️ Products where MRP > 500 and Discount < 10%
